@@ -8,6 +8,11 @@
     
 }
 
+*{
+    background-size: "cover";
+
+}
+
 .head{
     position: absolute;
     top:45%;
