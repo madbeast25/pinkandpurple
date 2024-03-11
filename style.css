@@ -90,13 +90,13 @@ h3{
 
 .joy{
     border-radius: 50%;
-    height: 200px;
+    height: 150px;
     float: left;
     clear: right;
 }
 
 .code-love{
-    height: 200px;
+    height: 150px;
     float: right;
     clear: left;
     border-radius: 50%;
