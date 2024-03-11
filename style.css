@@ -25,7 +25,7 @@ body{
 }
 
 .sakura{
-    height: 500px;
+    height: 400px;
     position: absolute;
     left:75%;
     top:50%;
@@ -33,7 +33,7 @@ body{
 
 .sun{
     padding-top: 20px;
-    height: 300px;
+    height: 200px;
     position: absolute;
     top:10%;
     left:20%;
