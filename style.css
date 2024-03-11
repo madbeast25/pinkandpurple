@@ -22,6 +22,7 @@
 body{
     margin: 0;
     text-align: center;
+    flex-direction:column;
     display:flex;
     flex:1;
     font-family: "Ubuntu", sans-serif;
