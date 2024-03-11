@@ -8,6 +8,9 @@
     
 }
 
+* :not(hr){
+    background-size: cover;
+}
 
 .head{
     position: absolute;
@@ -19,14 +22,13 @@ body{
     margin: 0;
     text-align: center;
     font-family: "Ubuntu", sans-serif;
-    background-size:cover;
 }
 
 .sakura{
     height: 500px;
     position: absolute;
     left:75%;
-    top:50%;
+    top:53%;
 }
 
 .sun{
@@ -92,13 +94,13 @@ h3{
 
 .joy{
     border-radius: 50%;
-    height: 150px;
+    height: 200px;
     float: left;
     clear: right;
 }
 
 .code-love{
-    height: 150px;
+    height: 200px;
     float: right;
     clear: left;
     border-radius: 50%;
